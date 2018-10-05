@@ -1,2 +1,2 @@
 # EpicArtsITProject
-エピックアーツITプロジェクト
+_ エピックアーツITプロジェクト
